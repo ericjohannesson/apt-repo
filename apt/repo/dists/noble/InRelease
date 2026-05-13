@@ -1,0 +1,31 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Eric Johannesson
+Label: ericjohannesson
+Suite: stable
+Codename: noble
+Date: Wed, 13 May 2026 14:34:47 UTC
+Architectures: amd64
+Components: main
+Description: My APT repository
+MD5Sum:
+ 367f61741b940f49095359901e74052b 1074 main/binary-amd64/Packages
+ 6d53de5459938577654e91a67219d447 551 main/binary-amd64/Packages.gz
+ ec58d87ff307ddb8f4e2bc08f4772297 131 main/binary-amd64/Release
+SHA1:
+ 1272680162473b9c2ecfcec69aa22fd4747714a9 1074 main/binary-amd64/Packages
+ 10dbbea58a38122de3aea7cf3a6215cc93f1ea88 551 main/binary-amd64/Packages.gz
+ b5a04086709f4106922b21befd06bc9fcf340aab 131 main/binary-amd64/Release
+SHA256:
+ f6f8c4c08057383b87fa26e310e22ccea4b1432c9afebc39d8b1720e003cebce 1074 main/binary-amd64/Packages
+ 2295bc40182a3c20da8b2a85cfa31e6cf939230bc65a0e22213eb7c86d46544c 551 main/binary-amd64/Packages.gz
+ f97372cedd64b9ea26ad0bc9d04d29ddad36f4a67fe3680aa9fbebf59af5c15f 131 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iI8EARYKADcWIQSN5oST+HpIfGrmFwNDGePJ/TaxmQUCagSMBxkcZXJpY0Blcmlj
+am9oYW5uZXNzb24uY29tAAoJEEMZ48n9NrGZLfMBANmQc5PvJ1PGoENzkpYr7bB1
+zTTvJAGsDxR4pkxeA6z5AQCKjvP88Mnw4O7cIJiymt/eFelb6RIzLjbY/sGEP6FU
+BA==
+=Kawb
+-----END PGP SIGNATURE-----

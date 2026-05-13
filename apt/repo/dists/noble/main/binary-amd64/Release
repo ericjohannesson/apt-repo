@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Eric Johannesson
+Label: ericjohannesson
+Architecture: amd64
+Description: My APT repository

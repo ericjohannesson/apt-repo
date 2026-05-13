@@ -1,0 +1,8 @@
+#!/usr/bin/bash
+
+# import my public pgp-key:
+curl https://ericjohannesson.github.io/apt-repo/apt/ericjohannesson-keyring.asc | sudo tee /usr/share/keyrings/ericjohannesson-keyring.asc
+
+# add this repo to your list of apt-repos:
+echo "deb [signed-by=/usr/share/keyrings/ericjohannesson-keyring.asc arch=amd64] https://ericjohannesson.github.io/apt-repo/apt/repo noble main" \
+| sudo tee /etc/apt/sources.list.d/ericjohannesson.list

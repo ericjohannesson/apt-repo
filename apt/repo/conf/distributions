@@ -1,0 +1,7 @@
+Origin: Eric Johannesson
+Label: ericjohannesson
+Suite: stable
+Codename: noble
+Architectures: amd64
+Components: main
+Description: My APT repository
