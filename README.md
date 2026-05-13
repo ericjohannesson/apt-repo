@@ -17,3 +17,8 @@ curl https://ericjohannesson.github.io/apt-repo/apt/ericjohannesson-keyring.asc 
 echo "deb [signed-by=/usr/share/keyrings/ericjohannesson-keyring.asc arch=amd64] https://ericjohannesson.github.io/apt-repo/apt/repo noble main" \
 | sudo tee /etc/apt/sources.list.d/ericjohannesson.list
 ```
+
+3. Update:
+```bash
+sudo apt update
+```
