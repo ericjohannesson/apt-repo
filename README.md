@@ -1,6 +1,6 @@
 # apt-repo
 
-My apt-repository, containing various pre-compiled debian-packages, built with [reprepro](https://github.com/ionos-cloud/reprepro).
+My apt-repository, containing various pre-compiled debian-packages.
 
 ## How to add this repository
 
