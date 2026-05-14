@@ -1,3 +1,18 @@
+Package: cmd-sync
+Version: 1.0
+Maintainer: Eric Johannesson <eric@ericjohannesson.com>
+Depends: bash, findutils, diffutils, grep, sed
+Architecture: all
+Homepage: https://github.com/ericjohannesson/cmd-sync
+Priority: 0
+Section: misc
+Filename: pool/main/c/cmd-sync/cmd-sync_1.0_all.deb
+Size: 2572
+SHA256: 731f75f924cb53e4ea78427f49ec2f35c7a074885903172854e92caba9f2cd7d
+SHA1: aece26e73a7fda15584dd8e2ef8dfa3562d17b2d
+MD5sum: 57adf230fa4d6363ae32d2fabce64d46
+Description: A bash-script for making the file structure of a *destination directory* identical to the file structure of a *source directory* (without changing the source), where each destination file is the result of applying a user-specified *shell command* to the corresponding source file.
+
 Package: nmm-ocaml
 Version: 1.0
 Maintainer: Eric Johannesson <eric@ericjohannesson.com>
@@ -8,9 +23,9 @@ Priority: 0
 Section: misc
 Filename: pool/main/n/nmm-ocaml/nmm-ocaml_1.0_amd64.deb
 Size: 1828024
-SHA256: 3c3985ae6a9d0e47432a6f73dce3ca1266dce8cfb1d97348c4179f8f00622df5
-SHA1: 79ab4b8fe3f27879ff61517e4323147d446f6989
-MD5sum: a584db135c4bb973810bd6ba4ad82434
+SHA256: a0a9342a78a814a3bb304d42521ad5026f881045ab9601c410ac2d2c93d2925e
+SHA1: ee15cff44694a7ce6dc230bc51fadb36ef12cea2
+MD5sum: 1ac30d9832c898024e873f08f045925a
 Description: An implementation of no-markup-markup in OCaml
 
 Package: nmm-ocaml-extras
@@ -22,9 +37,9 @@ Homepage: https://github.com/ericjohannesson/nmm-ocaml
 Priority: 0
 Section: misc
 Filename: pool/main/n/nmm-ocaml-extras/nmm-ocaml-extras_1.0_amd64.deb
-Size: 1076
-SHA256: f73891a0386c584650ece60db5d8bdd9a9ea981326bbeff5acaf23a452a41068
-SHA1: c4fb0c7b3abbb12335ac7eb681d4e99e8f2272f9
-MD5sum: 18c8809c44a4343220d13b729336604c
+Size: 1074
+SHA256: f38c49dce3baecb751513ff7181e3d35c228068cbb02abd29c274cf4d327fb22
+SHA1: e704bc50a5b3cbe41c7b62af3990cdc20394e971
+MD5sum: ee2a20620eeb32b06e7f721c7c7d56f3
 Description: Some convenient wrapper scripts for nmm-ocaml (txt-of-nmm, html-of-nmm, pdf-of-nmm)
 

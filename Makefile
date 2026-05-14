@@ -8,14 +8,14 @@ MAKEFLAGS += --no-builtin-rules
 repo_origin = Eric Johannesson
 repo_codename = noble
 repo_label = ericjohannesson
-repo_architecture = amd64
+repo_architectures = amd64
 repo_description = My APT repository
 repo_suite = stable
 repo_component = main
 
 repo_container = apt
 repo_path = ${repo_container}/repo
-deb_source = ~/Files/no-markup-markup/nmm-ocaml/debian/packages
+deb_sources = ~/Files/no-markup-markup/nmm-ocaml/debian/packages/ ~/Files/scripts/cmd-sync/debian/packages/
 key_id = eric@ericjohannesson.com
 key_name = ${repo_label}-keyring.asc
 
@@ -54,7 +54,7 @@ Origin: ${repo_origin}
 Label: ${repo_label}
 Suite: ${repo_suite}
 Codename: ${repo_codename}
-Architectures: ${repo_architecture}
+Architectures: ${repo_architectures}
 Components: ${repo_component}
 Description: ${repo_description}
 endef
@@ -66,7 +66,7 @@ ${repo_path}/conf/distributions:
 
 ${repo_path}/incoming:
 	mkdir -p ${repo_path}/incoming
-	rsync -av ${deb_source}/ ${repo_path}/incoming/
+	rsync -av ${deb_sources} ${repo_path}/incoming/
 
 
 ${repo_path}/dists/${repo_codename}/Release: ${repo_path}/conf/distributions ${repo_path}/incoming
