@@ -7,10 +7,10 @@ Homepage: https://github.com/ericjohannesson/cmd-sync
 Priority: 0
 Section: misc
 Filename: pool/main/c/cmd-sync/cmd-sync_1.0_all.deb
-Size: 2572
-SHA256: 731f75f924cb53e4ea78427f49ec2f35c7a074885903172854e92caba9f2cd7d
-SHA1: aece26e73a7fda15584dd8e2ef8dfa3562d17b2d
-MD5sum: 57adf230fa4d6363ae32d2fabce64d46
+Size: 2570
+SHA256: 005c08a031176c1a094cdfe83f7db0ce0a8ef79c96e40d8114e1265830489bdc
+SHA1: 4fa63b9e6ddb741a9a076a15b93e11c400f33ab8
+MD5sum: 560cae49078cadbc0d15165568c73638
 Description: A bash-script for making the file structure of a *destination directory* identical to the file structure of a *source directory* (without changing the source), where each destination file is the result of applying a user-specified *shell command* to the corresponding source file.
 
 Package: nmm-ocaml
@@ -22,10 +22,10 @@ Homepage: https://github.com/ericjohannesson/nmm-ocaml
 Priority: 0
 Section: misc
 Filename: pool/main/n/nmm-ocaml/nmm-ocaml_1.0_amd64.deb
-Size: 1828024
-SHA256: a0a9342a78a814a3bb304d42521ad5026f881045ab9601c410ac2d2c93d2925e
-SHA1: ee15cff44694a7ce6dc230bc51fadb36ef12cea2
-MD5sum: 1ac30d9832c898024e873f08f045925a
+Size: 1825232
+SHA256: fc0ecbb3aac6e78c6e0a5856d9348cf5ce46ceda2b9f2353e69730e885a514ee
+SHA1: 5b0075180a8bae0f2add7c0d3a64feaf3482daa7
+MD5sum: 51c69eae9ef675134adfd6f7a4043e89
 Description: An implementation of no-markup-markup in OCaml
 
 Package: nmm-ocaml-extras
@@ -37,9 +37,9 @@ Homepage: https://github.com/ericjohannesson/nmm-ocaml
 Priority: 0
 Section: misc
 Filename: pool/main/n/nmm-ocaml-extras/nmm-ocaml-extras_1.0_amd64.deb
-Size: 1074
-SHA256: f38c49dce3baecb751513ff7181e3d35c228068cbb02abd29c274cf4d327fb22
-SHA1: e704bc50a5b3cbe41c7b62af3990cdc20394e971
-MD5sum: ee2a20620eeb32b06e7f721c7c7d56f3
+Size: 1076
+SHA256: d6a5c0c832f39db1705b9a8852a1e2b6a14be1093bff354e1e166eef456278d4
+SHA1: ac3a12675f5729c423a5d075011a994f4c630e08
+MD5sum: 44b0108fec3cc54ed5901fd429a47994
 Description: Some convenient wrapper scripts for nmm-ocaml (txt-of-nmm, html-of-nmm, pdf-of-nmm)
 

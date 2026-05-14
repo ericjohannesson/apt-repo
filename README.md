@@ -14,7 +14,7 @@ curl https://ericjohannesson.github.io/apt-repo/apt/ericjohannesson-keyring.asc 
 
 2. Add this repository to your list of apt-repositories:
 ```bash
-echo "deb [signed-by=/usr/share/keyrings/ericjohannesson-keyring.asc arch=amd64] https://ericjohannesson.github.io/apt-repo/apt/repo noble main" \
+echo "deb [signed-by=/usr/share/keyrings/ericjohannesson-keyring.asc arch=amd64] https://ericjohannesson.github.io/apt-repo/apt/repo ericjohannesson main" \
 | sudo tee /etc/apt/sources.list.d/ericjohannesson.list
 ```
 

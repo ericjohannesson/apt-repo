@@ -6,18 +6,15 @@ MAKEFLAGS += --warn-undefined-variables
 MAKEFLAGS += --no-builtin-rules
 
 repo_origin = Eric Johannesson
-repo_codename = noble
-repo_label = ericjohannesson
+repo_codename = ericjohannesson
 repo_architectures = amd64
-repo_description = My APT repository
-repo_suite = stable
 repo_component = main
 
 repo_container = apt
 repo_path = ${repo_container}/repo
 deb_sources = ~/Files/no-markup-markup/nmm-ocaml/debian/packages/ ~/Files/scripts/cmd-sync/debian/packages/
 key_id = eric@ericjohannesson.com
-key_name = ${repo_label}-keyring.asc
+key_name = ${repo_codename}-keyring.asc
 
 base_url = https://ericjohannesson.github.io/apt-repo
 key_url = ${base_url}/${repo_container}/${key_name}
@@ -35,7 +32,7 @@ curl ${key_url} | sudo tee /usr/share/keyrings/${key_name}
 
 # add this repo to your list of apt-repos:
 echo \"deb [signed-by=/usr/share/keyrings/${key_name} arch=amd64] ${repo_url} ${repo_codename} ${repo_component}\" \\
-| sudo tee /etc/apt/sources.list.d/${repo_label}.list
+| sudo tee /etc/apt/sources.list.d/${repo_codename}.list
 endef
 
 define remove_repo_script
@@ -45,18 +42,15 @@ define remove_repo_script
 sudo rm /usr/share/keyrings/${key_name}
 
 # rempove this repo from your list of apt-repos:
-sudo rm /etc/apt/sources.list.d/${repo_label}.list
+sudo rm /etc/apt/sources.list.d/${repo_codename}.list
 endef
 
 
 define distributions
 Origin: ${repo_origin}
-Label: ${repo_label}
-Suite: ${repo_suite}
 Codename: ${repo_codename}
 Architectures: ${repo_architectures}
 Components: ${repo_component}
-Description: ${repo_description}
 endef
 
 
