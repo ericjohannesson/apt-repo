@@ -28,7 +28,8 @@ define add_repo_script
 #!/usr/bin/bash
 
 # import my public pgp-key:
-curl ${key_url} | sudo tee /usr/share/keyrings/${key_name}
+wget ${key_url} \\
+&& sudo mv ${key_name} /usr/share/keyrings/
 
 # add this repo to your list of apt-repos:
 echo \"deb [signed-by=/usr/share/keyrings/${key_name} arch=amd64] ${repo_url} ${repo_codename} ${repo_component}\" \\

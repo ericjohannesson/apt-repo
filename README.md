@@ -8,8 +8,8 @@ To add this repository on a debian-based linux distribution using apt, run the f
 
 1. Import my public pgp-key:
 ```bash
-curl https://ericjohannesson.github.io/apt-repo/apt/ericjohannesson-keyring.asc \
-| sudo tee /usr/share/keyrings/ericjohannesson-keyring.asc
+wget https://ericjohannesson.github.io/apt-repo/apt/ericjohannesson-keyring.asc \
+&& sudo mv ericjohannesson-keyring.asc /usr/share/keyrings/
 ```
 
 2. Add this repository to your list of apt-repositories:
