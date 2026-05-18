@@ -12,7 +12,7 @@ repo_component = main
 
 repo_container = apt
 repo_path = ${repo_container}/repo
-deb_sources = ~/Files/no-markup-markup/nmm-ocaml/debian/packages/ ~/Files/scripts/cmd-sync/debian/packages/
+deb_sources = ~/Files/no-markup-markup/nmm-ocaml/debian/packages/ ~/Files/scripts/cmd-sync/debian/packages/ ~/Files/natural_deduction/natural-deduction/debian/packages/
 key_id = eric@ericjohannesson.com
 key_name = ${repo_codename}-keyring.asc
 
