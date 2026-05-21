@@ -7,10 +7,10 @@ Homepage: https://github.com/ericjohannesson/cmd-sync
 Priority: 0
 Section: misc
 Filename: pool/main/c/cmd-sync/cmd-sync_1.0_all.deb
-Size: 2568
-SHA256: 7bf6c5f1a3bea904e899077b53b8f0ad188dfe7628a364fe8fc01f50163ce2cf
-SHA1: c199aa198f5253bdfa5f0f8975817f34191523c0
-MD5sum: 4cb862717ad419d0fba7edc71845edf8
+Size: 2572
+SHA256: dbfd0f767cfa6078d470c84519f7ef414ca53ca87f3212e2c6a553dc313c4571
+SHA1: 4c99ef1a9c195c5be1f0e84338ab938f301b30ef
+MD5sum: d6b2c3392c1704a6861607ac39b04437
 Description: A bash-script for making the file structure of a *destination directory* identical to the file structure of a *source directory* (without changing the source), where each destination file is the result of applying a user-specified *shell command* to the corresponding source file.
 
 Package: natural-deduction
@@ -22,10 +22,10 @@ Homepage: https://github.com/ericjohannesson/natural-deduction
 Priority: 0
 Section: misc
 Filename: pool/main/n/natural-deduction/natural-deduction_1.6_amd64.deb
-Size: 1253044
-SHA256: 57d5d44dde063014259c648dd05fc7c39a15288e38f78377bde815b684f5f159
-SHA1: 702e56f698591d3d4e72a8bd50214e983e331517
-MD5sum: 01571c5962c4cdbb75a44eca936eaf59
+Size: 1248904
+SHA256: ba5ce7ddad8da8dac6ae625dbeebbc9f35cfd39cf49a01b8325dd93bfce63f69
+SHA1: 5fda04b06df8a0ecadb16c6d240fbfebc20a3119
+MD5sum: 57cdcd84388495047201078da1e0110f
 Description: A basic proof assistant for natural deduction in first-order logic
 
 Package: nmm-ocaml
@@ -37,10 +37,10 @@ Homepage: https://github.com/ericjohannesson/nmm-ocaml
 Priority: 0
 Section: misc
 Filename: pool/main/n/nmm-ocaml/nmm-ocaml_1.0_amd64.deb
-Size: 1829164
-SHA256: 06f731cf51d2478e87a9363daf3daa075190ac2c7b3a3b153d723145fe8392e8
-SHA1: c2549d0502a0a13cc1cae2b34c915e808c5d947a
-MD5sum: 4726880f569fa6e96bdd3496fb6c4e36
+Size: 1838610
+SHA256: a8ec65b62b6fb87d7c642e7ebefc1da6921378fd52dfee20ffa4021ad1afec4a
+SHA1: 5008ce0a2a47995ff7d85c4f3df0880028564d6a
+MD5sum: d040f33e91a814fb4ebfec0507416c35
 Description: An implementation of no-markup-markup in OCaml
 
 Package: nmm-ocaml-extras
@@ -52,9 +52,9 @@ Homepage: https://github.com/ericjohannesson/nmm-ocaml
 Priority: 0
 Section: misc
 Filename: pool/main/n/nmm-ocaml-extras/nmm-ocaml-extras_1.0_amd64.deb
-Size: 1076
-SHA256: ca7d02f64dca5e05a16c80a8eaee76b44afffa74cf9997e19f8b80399736247f
-SHA1: f08295eec067312f7ce3a0c2a7e5579eecf79b9c
-MD5sum: 834a5e0fe28c068f35aac3c43dbf3d69
+Size: 1074
+SHA256: 932243124cc2274c70792887df6ef0be2937f4e646c2261feedb2d1c73d0d845
+SHA1: 58572b6e29ff8502418db4ad33902a8ca364fc47
+MD5sum: e6a14aaa82f45425dad322e22ba23b7c
 Description: Some convenient wrapper scripts for nmm-ocaml (txt-of-nmm, html-of-nmm, pdf-of-nmm)
 
