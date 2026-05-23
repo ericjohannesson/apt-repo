@@ -5,7 +5,7 @@ SHELL := bash
 MAKEFLAGS += --warn-undefined-variables
 MAKEFLAGS += --no-builtin-rules
 
-.PHONY: clean update
+.PHONY: clean
 
 repo_origin = Eric Johannesson
 repo_codename = ericjohannesson
@@ -55,11 +55,6 @@ Codename: ${repo_codename}
 Architectures: ${repo_architectures}
 Components: ${repo_component}
 endef
-
-update:
-	rsync -av ${deb_sources} ${repo_path}/incoming/
-	make ${repo_path}/dists/${repo_codename}/Release.asc
-	make ${repo_path}/dists/${repo_codename}/InRelease
 
 ${repo_path}/conf/distributions:
 	mkdir -p ${repo_path}/conf
