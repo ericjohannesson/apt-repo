@@ -3,26 +3,26 @@ Hash: SHA512
 
 Origin: Eric Johannesson
 Codename: ericjohannesson
-Date: Sun, 24 May 2026 19:35:57 UTC
+Date: Mon, 25 May 2026 07:37:24 UTC
 Architectures: amd64
 Components: main
 MD5Sum:
- 7c7e55fd1d06b28e9bffad1f24fc7e60 2373 main/binary-amd64/Packages
- bc976c1a3cfdab670a258acfa6e90a57 1014 main/binary-amd64/Packages.gz
+ 89ebfcbf25bf9413f81b5f2cd5895ddf 2373 main/binary-amd64/Packages
+ 21e0e1a85b652a1e5d9352e5abe8e18b 1010 main/binary-amd64/Packages.gz
  1ded85d773d0b77b6c324862bc890166 61 main/binary-amd64/Release
 SHA1:
- f210bac63aa9d8137b88c7ef7869c0ab4a4d62e4 2373 main/binary-amd64/Packages
- aa6ea0a38b9caff3587b669aea78fbfbceff3acc 1014 main/binary-amd64/Packages.gz
+ d4e3c9c816295fc2c2d030b04f4a8230f0358d1d 2373 main/binary-amd64/Packages
+ 80902bb4ecc7a92b05a95c4ce7a91e6c5e547900 1010 main/binary-amd64/Packages.gz
  fbeed71fc2421e18f1900c338668e900c5ce3c29 61 main/binary-amd64/Release
 SHA256:
- 588b186c5a6ac18bffc28170760717afb82ec56bfd49f0b48ac32c01ce13610a 2373 main/binary-amd64/Packages
- 1c890015d3a322f64d4b555288873758ed6ccae80261b0a5b15e3745f460337a 1014 main/binary-amd64/Packages.gz
+ 5da519e55b8efb7383fef1d04debcf579d7f4b44b721dfcc5f1914e234f2e808 2373 main/binary-amd64/Packages
+ 73276e9b6c92425e72ee869c22478197b7b68407d70a58964417df790055c63a 1010 main/binary-amd64/Packages.gz
  b6d27bfe80967070785784c5b0296948aa60a861bbcb966ba43494bc950ffa14 61 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iI8EARYKADcWIQSN5oST+HpIfGrmFwNDGePJ/TaxmQUCahNTHRkcZXJpY0Blcmlj
-am9oYW5uZXNzb24uY29tAAoJEEMZ48n9NrGZZOYA/1Nyg2ebnxOWB40o0bz9XgkN
-6yufyy0mmUyeYptkd1TjAP44QTSkLHwm/fZ/CFoM27UM0V3WiPAh6rV08l5Uo1pg
-Cg==
-=Zu4M
+iI8EARYKADcWIQSN5oST+HpIfGrmFwNDGePJ/TaxmQUCahP8NBkcZXJpY0Blcmlj
+am9oYW5uZXNzb24uY29tAAoJEEMZ48n9NrGZX5oBANGARYinY0xaKgIvxWaZ7pec
+xATV1M9NmmcwHSjc3BkaAQDR+Ldgm7oKErdwJX+doXNk135L8UHeVB8NRbKVYxwH
+Dw==
+=IkG0
 -----END PGP SIGNATURE-----
