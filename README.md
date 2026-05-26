@@ -2,7 +2,7 @@
 
 My apt-repository, containing various pre-compiled debian-packages.
 
-## How to add this repository
+## How to use this repository
 
 To add this repository on a debian-based linux distribution using apt, run the following commands in the terminal:
 
