@@ -14,8 +14,8 @@ wget https://ericjohannesson.github.io/apt-repo/apt/ericjohannesson-keyring.asc 
 
 2. Add this repository to your list of apt-repositories:
 ```bash
-echo "deb [signed-by=/usr/share/keyrings/ericjohannesson-keyring.asc arch=amd64] https://ericjohannesson.github.io/apt-repo/apt/repo ericjohannesson main" \
-| sudo tee /etc/apt/sources.list.d/ericjohannesson.list
+wget https://ericjohannesson.github.io/apt-repo/apt/ericjohannesson.list \
+&& sudo mv ericjohannesson.list /etc/apt/sources.list.d/
 ```
 
 3. Update:
