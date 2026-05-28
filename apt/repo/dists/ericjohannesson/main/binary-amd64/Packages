@@ -7,10 +7,10 @@ Homepage: https://github.com/ericjohannesson/cmd-sync
 Priority: 0
 Section: misc
 Filename: pool/main/c/cmd-sync/cmd-sync_1.0_all.deb
-Size: 2806
-SHA256: b9af7af084484bc97cf39ee0bfd5c275385278f7e267db22aa4c066aed380b7a
-SHA1: 8c7993e6e3dc26d98086cce1849473eb41329310
-MD5sum: 4d37f3cc0bef0f9e76e4986347c10765
+Size: 2810
+SHA256: 0d26ade425789f21790ac858d61566729167eb2344daf92e1d4fef969d9b3cb9
+SHA1: 70c593059c835af3c1bca379f16bfabe49cab4d5
+MD5sum: 8ab616d13f2401da68f339cf99e58f12
 Description: A bash-script for making the file structure of a *destination directory* identical to the file structure of a *source directory* (without changing the source), where each destination file is the result of applying a user-specified *shell command* to the corresponding source file.
 
 Package: natural-deduction
@@ -22,39 +22,39 @@ Homepage: https://github.com/ericjohannesson/natural-deduction
 Priority: 0
 Section: misc
 Filename: pool/main/n/natural-deduction/natural-deduction_1.6_amd64.deb
-Size: 1248610
-SHA256: 71e0b26d9803e3d7976199c508caca0abdebd195904dd7a81926ed359a38b3e8
-SHA1: 69905e599ed55bf8203f10673a52cb1d98e49e19
-MD5sum: ca3f59c51b66ea11055801a88db109d2
+Size: 1248906
+SHA256: e43c75e20c7852f9c4b1a2228588e653b46feb2777a9405f14009f84cdde1b1e
+SHA1: 63518898479b98d63581184c095ca69d484f6601
+MD5sum: 6ee00048e7cabbc2a8b0dd54b10380a1
 Description: A basic proof assistant for natural deduction in first-order logic
 
 Package: nmm-ocaml
-Version: 1.2
+Version: 1.3
 Maintainer: Eric Johannesson <eric@ericjohannesson.com>
 Depends: libc6
 Architecture: amd64
 Homepage: https://github.com/ericjohannesson/nmm-ocaml
 Priority: 0
 Section: misc
-Filename: pool/main/n/nmm-ocaml/nmm-ocaml_1.2_amd64.deb
-Size: 1855582
-SHA256: 9a27fdf71e85438b55f51e5918ccef7d28e4d33fd3a8cb06ba2a7eae675534f4
-SHA1: 3142e865fbf0dcefaac67b52a46243b27791758f
-MD5sum: 6252b3f9d83d19665d4ab80c3596a13f
+Filename: pool/main/n/nmm-ocaml/nmm-ocaml_1.3_amd64.deb
+Size: 1873584
+SHA256: fa53224f77fcc33f8a5ebedc105c835ece043196c657fafe62f54bfaba002162
+SHA1: 1d88f3907b57a8bb6ec5e03f3a188b0fc2f96342
+MD5sum: dbbb5916b4cc94e68e1b2d738695405e
 Description: An implementation of no-markup-markup in OCaml
 
 Package: nmm-ocaml-extras
-Version: 1.2
+Version: 1.3
 Maintainer: Eric Johannesson <eric@ericjohannesson.com>
 Depends: nmm-ocaml, bash, sed, weasyprint
 Architecture: amd64
 Homepage: https://github.com/ericjohannesson/nmm-ocaml
 Priority: 0
 Section: misc
-Filename: pool/main/n/nmm-ocaml-extras/nmm-ocaml-extras_1.2_amd64.deb
-Size: 1804
-SHA256: 3b786aa105d1d5299b313489c96bacba494388ba7e4e0a9a425a3d12a744b5e6
-SHA1: 6bf495f09be0ac74c6bfde230b411f4d9df48a99
-MD5sum: c25c8230205503b851cac8c4ad35ed77
+Filename: pool/main/n/nmm-ocaml-extras/nmm-ocaml-extras_1.3_amd64.deb
+Size: 1818
+SHA256: 5bbe12686a8175cfc48c27ff080b47fb64bcdeb58dcec6f8f0d886068035eea0
+SHA1: 3451c6e756a14646f0f3df8a543ff6012e7fd134
+MD5sum: 923d9c838abf3de569b8b0ec2ed10c0a
 Description: Some convenient wrapper scripts for nmm-ocaml (txt-of-nmm, html-of-nmm, pdf-of-nmm)
 
