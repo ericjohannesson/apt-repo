@@ -13,7 +13,7 @@ repo_architectures = amd64
 repo_component = main
 repo_section = misc
 
-deb_sources = ~/Files/no-markup-markup/nmm-ocaml/debian/packages/ ~/Files/scripts/cmd-sync/debian/packages/ ~/Files/natural_deduction/natural-deduction/debian/packages/
+deb_sources = ../incoming/
 
 repo_container = apt
 repo_path = ${repo_container}/repo
