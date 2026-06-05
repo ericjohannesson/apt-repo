@@ -2,9 +2,7 @@
 
 My apt-repository, containing various pre-compiled debian-packages.
 
-## How to use this repository
-
-To add this repository on a debian-based linux distribution using apt, run the following commands in the terminal:
+To use this repository on a debian-based linux distribution with apt, run the following commands in the terminal:
 
 1. Import my public pgp-key:
 ```bash
