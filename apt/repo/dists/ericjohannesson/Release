@@ -1,17 +1,17 @@
 Origin: Eric Johannesson
 Codename: ericjohannesson
-Date: Wed, 03 Jun 2026 17:30:03 UTC
+Date: Fri, 12 Jun 2026 08:21:38 UTC
 Architectures: amd64
 Components: main
 MD5Sum:
- 7c1b4500b9fca945a5c159d1d89828ea 2373 main/binary-amd64/Packages
- 2c22a9e51c39094e77dc555474ed1f36 1016 main/binary-amd64/Packages.gz
+ fc1cf1242bfc1e5383451c506d137a73 2373 main/binary-amd64/Packages
+ 5f41d024f3df650a3a54e3ea2e9839b2 1010 main/binary-amd64/Packages.gz
  1ded85d773d0b77b6c324862bc890166 61 main/binary-amd64/Release
 SHA1:
- 97ecad6a5a07dbcc0d2051638bee216a39914e3a 2373 main/binary-amd64/Packages
- a623911a7b2f341d6a2d6bfd00c2f0510c30c82e 1016 main/binary-amd64/Packages.gz
+ f0318c18cfff4e88bae481dee81d99c766e96016 2373 main/binary-amd64/Packages
+ 12bd61a31f69c06b92164bf06798fbcc66f68f94 1010 main/binary-amd64/Packages.gz
  fbeed71fc2421e18f1900c338668e900c5ce3c29 61 main/binary-amd64/Release
 SHA256:
- 11d4b1241d0d6b405835223a9f21c3f51c10562cc89584cefa2d6cffea8c54d5 2373 main/binary-amd64/Packages
- 08391ad677a1510d3099639597bde4ea4a1ad129f983102ae70bf4c5da344430 1016 main/binary-amd64/Packages.gz
+ 1b39c6a5f5c9b74015768047502c2e626e60db6413846893ef64f4d649f0db3e 2373 main/binary-amd64/Packages
+ 03848625150c3b6febc0aac067884ddda26286d6df9ed5e46c3fdf5af6627d04 1010 main/binary-amd64/Packages.gz
  b6d27bfe80967070785784c5b0296948aa60a861bbcb966ba43494bc950ffa14 61 main/binary-amd64/Release
