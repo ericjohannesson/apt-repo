@@ -22,10 +22,10 @@ Homepage: https://github.com/ericjohannesson/natural-deduction
 Priority: 0
 Section: misc
 Filename: pool/main/n/natural-deduction/natural-deduction_1.6_amd64.deb
-Size: 1248906
-SHA256: e43c75e20c7852f9c4b1a2228588e653b46feb2777a9405f14009f84cdde1b1e
-SHA1: 63518898479b98d63581184c095ca69d484f6601
-MD5sum: 6ee00048e7cabbc2a8b0dd54b10380a1
+Size: 1248908
+SHA256: cecbac0d9fdf6bce67d108aa7fa35ff901d9f376230210d55554e1a8092eed42
+SHA1: 16ff56e13f9f7310d97d2b7332ac81fa0b48d019
+MD5sum: 7c3f6f30443c64ebe67c70c13662b624
 Description: A basic proof assistant for natural deduction in first-order logic
 
 Package: nmm-ocaml
