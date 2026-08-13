@@ -37,10 +37,10 @@ Homepage: https://github.com/ericjohannesson/nmm-ocaml
 Priority: 0
 Section: misc
 Filename: pool/main/n/nmm-ocaml/nmm-ocaml_1.7_amd64.deb
-Size: 1855182
-SHA256: 6c65c256ad83a6404cea028846b0ec7ee120aa31cd722a05b4bd995cef301a89
-SHA1: f0263efcca4cb49e6a5a97c05f1c64874007b0c8
-MD5sum: d6fc78a84ae0ad01c11b2f5c5a928895
+Size: 1854796
+SHA256: a4b6472dd93b73b9e01481c6a2ca85bc99fa8f87617e0e99fb01283f9f846ea5
+SHA1: d944be6a2cfa9f4654635294134c084098da3504
+MD5sum: ef99293c6f9e686a8eb0867e85f003e8
 Description: An implementation of no-markup-markup in OCaml
 
 Package: nmm-ocaml-extras
@@ -52,9 +52,9 @@ Homepage: https://github.com/ericjohannesson/nmm-ocaml
 Priority: 0
 Section: misc
 Filename: pool/main/n/nmm-ocaml-extras/nmm-ocaml-extras_1.7_amd64.deb
-Size: 1926
-SHA256: 830bc799e397613a51e8011cf6ab5f2f22d1fb2dfb762b838e68c0394021a8b9
-SHA1: 54c05c354614fd5367f29cc3e0d8a1f6960d1dd4
-MD5sum: 957085b57e0aab358220d033c96e97be
+Size: 1930
+SHA256: 192e25879dbcd517cff747535a574d4909b2ea76899ba29c699f40e578f32592
+SHA1: 7bafb4fd217d9666b70e7b15516a9944c13b81cf
+MD5sum: 4dcd62f21631f549d48d2e60c36887ff
 Description: Some convenient wrapper scripts for nmm-ocaml (txt-of-nmm, html-of-nmm, pdf-of-nmm)
 
