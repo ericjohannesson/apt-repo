@@ -1,16 +1,16 @@
 Package: cmd-sync
-Version: 1.0
+Version: 1.1
 Maintainer: Eric Johannesson <eric@ericjohannesson.com>
 Depends: bash, coreutils, findutils, diffutils, grep, sed
 Architecture: all
 Homepage: https://github.com/ericjohannesson/cmd-sync
 Priority: 0
 Section: misc
-Filename: pool/main/c/cmd-sync/cmd-sync_1.0_all.deb
-Size: 2832
-SHA256: d035c05a4497a735b114e0d074b7886dec34ba5f4eb894daaf864bd575bd3d6a
-SHA1: db73e2697f93c3b749ff25056b4aae6af9f11174
-MD5sum: 3830c85ee3ad9abe67386d5e9df20abb
+Filename: pool/main/c/cmd-sync/cmd-sync_1.1_all.deb
+Size: 2960
+SHA256: 3d50bb4bdcd016483eb2b2885a09e593fc9b9c549d00f5d1f4b50e30aa7dae38
+SHA1: bb7daec577ca49c25f617ec5615f89449941a137
+MD5sum: dbe810b85e5eda80282b4ac378fd25c8
 Description: A bash-script for making the file structure of a *destination directory* identical to the file structure of a *source directory* (without changing the source), where each destination file is the result of applying a user-specified *shell command* to the corresponding source file.
 
 Package: natural-deduction
