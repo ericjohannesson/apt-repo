@@ -3,26 +3,26 @@ Hash: SHA512
 
 Origin: Eric Johannesson
 Codename: ericjohannesson
-Date: Sun, 23 Aug 2026 17:14:37 UTC
+Date: Tue, 25 Aug 2026 06:52:06 UTC
 Architectures: amd64
 Components: main
 MD5Sum:
- 9d7317e8ad4e5408867d7a61b121830c 2380 main/binary-amd64/Packages
- 477155cdce3e668c24421072a75d33b7 1018 main/binary-amd64/Packages.gz
+ 905be94562dfac29463a0728741fb75c 2380 main/binary-amd64/Packages
+ 9531519a5c9fec7be5483e160f031f50 1018 main/binary-amd64/Packages.gz
  1ded85d773d0b77b6c324862bc890166 61 main/binary-amd64/Release
 SHA1:
- 92685f232c3ce98050d5a4b9dad2b777263724a2 2380 main/binary-amd64/Packages
- 6bc25e3e2e944b1bab16c50e4d30448d10f5ed20 1018 main/binary-amd64/Packages.gz
+ a457b273211dbe8329d6cff23b22753ac4da6961 2380 main/binary-amd64/Packages
+ e3d71fa912b520b2e0a73329144afe06785f4737 1018 main/binary-amd64/Packages.gz
  fbeed71fc2421e18f1900c338668e900c5ce3c29 61 main/binary-amd64/Release
 SHA256:
- 4a847accc198553b3c1a500ac1db43d82f4c2e8ac2c421d1b7f4dec69e3ec80d 2380 main/binary-amd64/Packages
- 8d77e5406ae70e7ac070c58e94f20e74728bfa957c68af70a8667fbf17f08dde 1018 main/binary-amd64/Packages.gz
+ bc17a42f8dbe6671481fdf41778f5fd973e5c3ecbbac8c76500393d9d59c3f3b 2380 main/binary-amd64/Packages
+ f487818e5425129a7212ee1a8a32cf1af0abeeea230a1fd00a8e8b81be1fbcbf 1018 main/binary-amd64/Packages.gz
  b6d27bfe80967070785784c5b0296948aa60a861bbcb966ba43494bc950ffa14 61 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iI8EARYKADcWIQSN5oST+HpIfGrmFwNDGePJ/TaxmQUCaosqfRkcZXJpY0Blcmlj
-am9oYW5uZXNzb24uY29tAAoJEEMZ48n9NrGZAZ8A/1OtcchXkMXhqHKDiwqHy4aZ
-/UdozNnIbWdzoxdkJwGPAP9rNbJqICnohKuN4nUjivmHqNdE5K0vC8bcsmmExuPf
-BA==
-=X1KB
+iI8EARYKADcWIQSN5oST+HpIfGrmFwNDGePJ/TaxmQUCao07lhkcZXJpY0Blcmlj
+am9oYW5uZXNzb24uY29tAAoJEEMZ48n9NrGZL9AA/R0azWm2D3TCfGk7gaWyaegR
+ymyd1NbAlHOvs6NLVCSiAQDaS2IsWaXEFphdLKFwMpLOcFkHyYjjUuxTkH61tPhT
+CQ==
+=dsJS
 -----END PGP SIGNATURE-----
