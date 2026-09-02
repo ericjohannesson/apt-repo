@@ -29,32 +29,32 @@ MD5sum: 7c3f6f30443c64ebe67c70c13662b624
 Description: A basic proof assistant for natural deduction in first-order logic
 
 Package: nmm-ocaml
-Version: 2.1
+Version: 2.2
 Maintainer: Eric Johannesson <eric@ericjohannesson.com>
 Depends: libc6
 Architecture: amd64
 Homepage: https://github.com/ericjohannesson/nmm-ocaml
 Priority: 0
 Section: misc
-Filename: pool/main/n/nmm-ocaml/nmm-ocaml_2.1_amd64.deb
-Size: 1855524
-SHA256: 5157b8bea249d0c4135a951a17d6c34ca73c69d99baed24b17c72f86966b9064
-SHA1: 30707552577b585390f1e456b0c276ed76d3408f
-MD5sum: c8724b20da578b3d52e6a30754ef4625
+Filename: pool/main/n/nmm-ocaml/nmm-ocaml_2.2_amd64.deb
+Size: 1854648
+SHA256: 74f831b33107636f9c28e28acd4a8f4857eeb84b2b40bbfc6e4a9159d0613f82
+SHA1: 6e1973745754f2d39153ece0e5b8f2ab475eaf16
+MD5sum: 657755fb24e790771f5539a98cdffd38
 Description: An implementation of no-markup-markup in OCaml
 
 Package: nmm-ocaml-extras
-Version: 2.1
+Version: 2.2
 Maintainer: Eric Johannesson <eric@ericjohannesson.com>
 Depends: nmm-ocaml, bash, sed, weasyprint
 Architecture: amd64
 Homepage: https://github.com/ericjohannesson/nmm-ocaml
 Priority: 0
 Section: misc
-Filename: pool/main/n/nmm-ocaml-extras/nmm-ocaml-extras_2.1_amd64.deb
-Size: 1944
-SHA256: 0c202d03ddcbfb5b6c49ebe8a0111e86e682bcdf06f42f3e2df98dc16fa6315b
-SHA1: 63cf07840f38abbdade7e77b001ad4919144d61a
-MD5sum: daa0badf3e8ccc58e422808e5b9205ef
+Filename: pool/main/n/nmm-ocaml-extras/nmm-ocaml-extras_2.2_amd64.deb
+Size: 2308
+SHA256: d5414fab9c41bb277be55aaafa4d694435af2cd119524e1ed2d09cb7df7f0da9
+SHA1: e3301d01315c54b1f83f989cc865d0aa84f0cf66
+MD5sum: 4f72f7f1de34534dd5580f7697b6d547
 Description: Some convenient wrapper scripts for nmm-ocaml (txt-of-nmm, html-of-nmm, pdf-of-nmm)
 
