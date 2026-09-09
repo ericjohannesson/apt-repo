@@ -1,1 +1,0 @@
-deb [signed-by=/usr/share/keyrings/ericjohannesson-keyring.asc] https://ericjohannesson.github.io/apt-repo/apt/repo ericjohannesson main

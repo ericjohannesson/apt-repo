@@ -24,10 +24,14 @@ key_name = ${repo_codename}-keyring.asc
 base_url = https://ericjohannesson.github.io/apt-repo
 repo_url = ${base_url}/${repo_path}
 
-list_name = ${repo_codename}.list
+sources_name = ${repo_codename}.sources
 
-define list_content
-deb [signed-by=/usr/share/keyrings/${key_name}] ${repo_url} ${repo_codename} ${repo_component}
+define sources_content
+Types: deb
+URIs: ${repo_url}
+Suites: ${repo_codename}
+Components: ${repo_component}
+Signed-By: /usr/share/keyrings/${key_name}
 endef
 
 define distributions
@@ -66,10 +70,10 @@ ${repo_path}/dists/${repo_codename}: ${repo_path}/dists/${repo_codename}/Release
 ${repo_container}/${key_name}:
 	gpg --export --armor ${key_id} > ${repo_container}/${key_name}
 
-${repo_container}/${list_name}:
-	echo "${list_content}" > ${repo_container}/${list_name}
+${repo_container}/${sources_name}:
+	echo "${sources_content}" > ${repo_container}/${sources_name}
 
-${repo_container}: ${repo_path}/dists/${repo_codename} ${repo_container}/${key_name} ${repo_container}/${list_name}
+${repo_container}: ${repo_path}/dists/${repo_codename} ${repo_container}/${key_name} ${repo_container}/${sources_name}
 
 
 clean:
