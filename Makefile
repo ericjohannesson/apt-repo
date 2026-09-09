@@ -25,8 +25,10 @@ base_url = https://ericjohannesson.github.io/apt-repo
 repo_url = ${base_url}/${repo_path}
 
 list_name = ${repo_codename}.list
-list_content = deb [signed-by=/usr/share/keyrings/${key_name} arch=amd64] ${repo_url} ${repo_codename} ${repo_component}
 
+define list_content
+deb [signed-by=/usr/share/keyrings/${key_name}] ${repo_url} ${repo_codename} ${repo_component}
+endef
 
 define distributions
 Origin: ${repo_origin}

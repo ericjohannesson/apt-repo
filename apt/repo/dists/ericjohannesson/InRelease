@@ -3,7 +3,7 @@ Hash: SHA512
 
 Origin: Eric Johannesson
 Codename: ericjohannesson
-Date: Wed, 09 Sep 2026 13:30:36 UTC
+Date: Wed, 09 Sep 2026 15:08:39 UTC
 Architectures: amd64 arm64
 Components: main
 MD5Sum:
@@ -29,9 +29,9 @@ SHA256:
  c71828409a8350c6a4d3e29d956cd52690e88bcdc33826f5f6e3c80349c53b12 61 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iI8EARYKADcWIQSN5oST+HpIfGrmFwNDGePJ/TaxmQUCaqFffBkcZXJpY0Blcmlj
-am9oYW5uZXNzb24uY29tAAoJEEMZ48n9NrGZQ5cA/3fIZzRzRENH0c+VRcc3uX+P
-D76I+IsPN6Wb5k9XwY+8AQCbcnoJxnLkz5BOVPtJFkHUSTHv/KHzQ9H9xOXCgIfr
-Dw==
-=PPcE
+iI8EARYKADcWIQSN5oST+HpIfGrmFwNDGePJ/TaxmQUCaqF2dxkcZXJpY0Blcmlj
+am9oYW5uZXNzb24uY29tAAoJEEMZ48n9NrGZydgA/125lDR0rJATCX/u4izXAvOq
+0GJ6K9Fq2iFvQyNH4s4WAQDjkbQnlrPns+TOOUmcSTxF7+fodC6Jf5B00lXfNQhY
+Bw==
+=tlyy
 -----END PGP SIGNATURE-----
