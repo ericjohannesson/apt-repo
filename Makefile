@@ -9,7 +9,7 @@ MAKEFLAGS += --no-builtin-rules
 
 repo_origin = Eric Johannesson
 repo_codename = ericjohannesson
-repo_architectures = amd64
+repo_architectures = amd64 arm64
 repo_component = main
 repo_section = misc
 
