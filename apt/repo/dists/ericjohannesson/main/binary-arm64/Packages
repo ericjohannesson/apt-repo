@@ -13,6 +13,21 @@ SHA1: 9df640ebccc57c6a70a48ad530aa0ad923c51fcb
 MD5sum: 1fe6bdb701d6edfc7cf17b4a7acd310b
 Description: A bash-script for making the file structure of a *destination directory* identical to the file structure of a *source directory* (without changing the source), where each destination file is the result of applying a user-specified *shell command* to the corresponding source file.
 
+Package: natural-deduction
+Version: 1.6
+Maintainer: Eric Johannesson <eric@ericjohannesson.com>
+Depends: libc6
+Architecture: arm64
+Homepage: https://github.com/ericjohannesson/natural-deduction
+Priority: 0
+Section: misc
+Filename: pool/main/n/natural-deduction/natural-deduction_1.6_arm64.deb
+Size: 1287500
+SHA256: d2f3c1eac4164325ebba0d942ec62318280dd913166bde5966e9751d783f34ae
+SHA1: affb46ca35c170da9bd2afbdf9cb5dfcb6f2f66c
+MD5sum: 363b053744d7f12a6e531009dcff9140
+Description: A basic proof assistant for natural deduction in first-order logic
+
 Package: nmm-ocaml
 Version: 2.5
 Maintainer: Eric Johannesson <eric@ericjohannesson.com>
