@@ -22,10 +22,10 @@ Homepage: https://github.com/ericjohannesson/natural-deduction
 Priority: 0
 Section: misc
 Filename: pool/main/n/natural-deduction/natural-deduction_1.6_amd64.deb
-Size: 658578
-SHA256: 9b195c046e77a00012b8bce5ee052a5d7c30c1b5d42fa0ad3ea1c63e613bf8a4
-SHA1: e543ebfaa6883098699173933abb371a258d851b
-MD5sum: 15c13137c1446c87343842c07f6eb5d9
+Size: 1295004
+SHA256: e5d31a27c1f521bc4dc846a54fd0eee62a32b6b0d5586e438eb12477c699f48a
+SHA1: 61751c8a4aeb555276c5b19a856295692f71e8bc
+MD5sum: c83633ca26ed0799f6be02e4886af664
 Description: A basic proof assistant for natural deduction in first-order logic
 
 Package: nmm-ocaml
@@ -37,10 +37,10 @@ Homepage: https://github.com/ericjohannesson/nmm-ocaml
 Priority: 0
 Section: misc
 Filename: pool/main/n/nmm-ocaml/nmm-ocaml_0_amd64.deb
-Size: 1124516
-SHA256: 3ad907c4ea6bd6795f2da8c8f829c0e4d7afe82835a356eef349a943f4f8b3d9
-SHA1: 1d5f3d3eeee4f9c6c26c16fdd7273a6731d6a494
-MD5sum: 650103213c5b0b9de298ed6ce3fe9e6e
+Size: 1928786
+SHA256: 9c6e7782f9f15f5c6f781e4755e8a5f4e9361a6dba8212941105a294312adbd9
+SHA1: 377af59897c3024bb6535e051cbd3269158760ac
+MD5sum: 3ece4c37f0c47503b8377fd309495b69
 Description: An implementation of no-markup-markup in OCaml
 
 Package: nmm-ocaml-extras
@@ -53,8 +53,8 @@ Priority: 0
 Section: misc
 Filename: pool/main/n/nmm-ocaml-extras/nmm-ocaml-extras_0_amd64.deb
 Size: 2308
-SHA256: ac5ee3d3a95e536e55d528f452d60df947d55e6661b7e95d74c2e460bf756627
-SHA1: fce00b548cd993dcc61f9eaa1034c726f20d0d01
-MD5sum: 8965af8c5d28bed2df01fcebb99beab3
+SHA256: beadbd433a137ff7f60eb31cdc5c7aeb52316e1a5424b6f99b921a55e6baba1d
+SHA1: e5e3be0edfb67ab69b041c1dcee517f23f149082
+MD5sum: f16f5fee9f19b7f6794106330e389d2d
 Description: Some convenient wrapper scripts for nmm-ocaml (txt-of-nmm, html-of-nmm, pdf-of-nmm)
 
