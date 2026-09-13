@@ -29,7 +29,7 @@ sources_name = ${repo_codename}.sources
 define sources_content
 Types: deb
 URIs: ${repo_url}
-Suites: ${repo_codename}
+Suites: stable
 Components: ${repo_component}
 Signed-By: /usr/share/keyrings/${key_name}
 endef
