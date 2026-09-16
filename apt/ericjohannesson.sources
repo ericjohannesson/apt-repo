@@ -1,5 +1,5 @@
 Types: deb
 URIs: https://ericjohannesson.github.io/apt-repo/apt/repo
-Suites: stable
+Suites: ericjohannesson
 Components: main
 Signed-By: /usr/share/keyrings/ericjohannesson-keyring.asc

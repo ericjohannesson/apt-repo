@@ -12,6 +12,7 @@ repo_codename = ericjohannesson
 repo_architectures = amd64 arm64
 repo_component = main
 repo_section = misc
+repo_suite = stable
 
 deb_sources = ../incoming/
 
@@ -29,7 +30,7 @@ sources_name = ${repo_codename}.sources
 define sources_content
 Types: deb
 URIs: ${repo_url}
-Suites: stable
+Suites: ${repo_codename}
 Components: ${repo_component}
 Signed-By: /usr/share/keyrings/${key_name}
 endef
@@ -37,6 +38,7 @@ endef
 define distributions
 Origin: ${repo_origin}
 Codename: ${repo_codename}
+Suite: ${repo_suite}
 Architectures: ${repo_architectures}
 Components: ${repo_component}
 endef
@@ -53,6 +55,7 @@ ${repo_path}/incoming:
 ${repo_path}/dists/${repo_codename}/Release: ${repo_path}/conf/distributions ${repo_path}/incoming
 	cd ${repo_path}
 	reprepro -v --section ${repo_section} --component ${repo_component} --priority 0 includedeb ${repo_codename} incoming/*.deb
+	reprepro createsymlinks 
 	cd -
 
 ${repo_path}/dists/${repo_codename}/Release.asc: ${repo_path}/dists/${repo_codename}/Release

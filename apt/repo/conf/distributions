@@ -1,4 +1,5 @@
 Origin: Eric Johannesson
 Codename: ericjohannesson
+Suite: stable
 Architectures: amd64 arm64
 Components: main
