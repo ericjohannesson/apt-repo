@@ -6,14 +6,14 @@ To use this repository on a debian-based linux distribution with apt, run the fo
 
 1. Import my public pgp-key:
 ```bash
-wget https://ericjohannesson.github.io/apt-repo/apt/ericjohannesson-keyring.asc \
-&& sudo mv ericjohannesson-keyring.asc /usr/share/keyrings/
+curl https://ericjohannesson.github.io/apt-repo/apt/ericjohannesson-keyring.asc \
+| sudo tee /usr/share/keyrings/ericjohannesson-keyring.asc
 ```
 
 2. Add this repository to your list of apt-repositories:
 ```bash
-wget https://ericjohannesson.github.io/apt-repo/apt/ericjohannesson.sources \
-&& sudo mv ericjohannesson.sources /etc/apt/sources.list.d/
+curl https://ericjohannesson.github.io/apt-repo/apt/ericjohannesson.sources \
+| sudo tee /etc/apt/sources.list.d/ericjohannesson.sources
 ```
 
 3. Update:
