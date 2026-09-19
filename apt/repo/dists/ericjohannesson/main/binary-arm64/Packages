@@ -52,9 +52,9 @@ Homepage: https://github.com/ericjohannesson/nmm-ocaml
 Priority: 0
 Section: misc
 Filename: pool/main/n/nmm-ocaml-extras/nmm-ocaml-extras_0_all.deb
-Size: 2308
-SHA256: 1e87c93db1baa23952f6a52bf236ee1cbf3eb4dbaaa287b7e6a871557dd27df1
-SHA1: f65ab59a913a202efec64531c02d589b42a1b479
-MD5sum: ced2d59ece74a9f6691e133d7801845d
+Size: 2292
+SHA256: b738baaabad357234df01deaa0f8b66fe865046e171d074de4b73051eade691d
+SHA1: 84e3653c9966b3e0c4b8e433c846dd0ff5317627
+MD5sum: 4f3e85829eb719f37308b2901e5263d4
 Description: Some convenient wrapper scripts for nmm-ocaml (txt-of-nmm, html-of-nmm, pdf-of-nmm)
 
