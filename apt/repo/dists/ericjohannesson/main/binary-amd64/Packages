@@ -1,16 +1,16 @@
 Package: cmdsync
-Version: 3
+Version: 4
 Maintainer: Eric Johannesson <eric@ericjohannesson.com>
 Depends: bash, coreutils, findutils, diffutils, grep, sed
 Architecture: all
 Homepage: https://github.com/ericjohannesson/cmdsync
 Priority: 0
 Section: misc
-Filename: pool/main/c/cmdsync/cmdsync_3_all.deb
-Size: 3772
-SHA256: 886845f7105b9873c7aa7173654f4aa1e04b2f58b4ab43dca9892a35f687c079
-SHA1: 616c5a74b2bbdc74eab536f1997e8785c823f96b
-MD5sum: 85986f85fd200a3c3d9904352d796503
+Filename: pool/main/c/cmdsync/cmdsync_4_all.deb
+Size: 3774
+SHA256: c40a1194626891446fb80226d5433a05ac01bbf161459c37c4845ac24a5b8996
+SHA1: 167898ead4034d1200648c8b36611d8c6d6053e0
+MD5sum: c8741b9ff01126dfec0345f274a649cf
 Description: A bash-script for making the file structure of a destination directory identical to the file structure of a source directory (without changing the source), where each destination file is the result of applying a user-specified shell-command to the corresponding source file.
 
 Package: natural-deduction
