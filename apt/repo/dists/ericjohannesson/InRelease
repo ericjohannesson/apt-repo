@@ -4,35 +4,35 @@ Hash: SHA512
 Origin: Eric Johannesson
 Suite: stable
 Codename: ericjohannesson
-Date: Tue, 22 Sep 2026 01:27:52 UTC
+Date: Wed, 23 Sep 2026 17:07:58 UTC
 Architectures: amd64 arm64
 Components: main
 MD5Sum:
  36252cc2ead710be0051c938f57130ea 2354 main/binary-amd64/Packages
  1dd44507b051960b31dde1a1579f7527 1017 main/binary-amd64/Packages.gz
  54a52e1bf432fa6a5bfd708c08fe9a66 77 main/binary-amd64/Release
- c375815a0a875bbd87634dec3bcc6c0b 2354 main/binary-arm64/Packages
- b77f6a2bbfd0e7439b5e5b7f403c14ee 1012 main/binary-arm64/Packages.gz
+ d4c08ef8331478aa6fdde1e4ee9b133e 1810 main/binary-arm64/Packages
+ 5a4a44d53071f82c201125f7082a2092 851 main/binary-arm64/Packages.gz
  a8391efef854813c257d7639bfa274d5 77 main/binary-arm64/Release
 SHA1:
  c48b7a88a499c69fdc1662997471038ffb9af4d4 2354 main/binary-amd64/Packages
  e7d7233db006388d48afc14c17d2bcb8a9164f93 1017 main/binary-amd64/Packages.gz
  e53834aa428c1a70fb21abdac4787fb5753a588d 77 main/binary-amd64/Release
- 236fda396cd1c7a74d86f523b619178cc1b1ff53 2354 main/binary-arm64/Packages
- 7f0a1ca18b394e68beabd1f8061e65da44a994ec 1012 main/binary-arm64/Packages.gz
+ 08ade3f6c14e04bc8dfbf298db018af52669728f 1810 main/binary-arm64/Packages
+ 3fd3efb6b1e0cfd5eb0fec998759623ea22e3e2b 851 main/binary-arm64/Packages.gz
  0da4c119b3d5e57d6c2d3e351d68e63490a55dc8 77 main/binary-arm64/Release
 SHA256:
  f63da81b5ef3b662e08087c1247b9201a66f1b12e38be8e4203bd99c62eae180 2354 main/binary-amd64/Packages
  3150eb13c55015809b86006ec7323c7d919efcf906f1972cd58be450571ac542 1017 main/binary-amd64/Packages.gz
  9e75a16417b2ec85a6db141b0643f1310fe6a211cb18ced2dd3c423299a23e8e 77 main/binary-amd64/Release
- e77232943681b57870e298e85694227bdc1fce4d65958765b027ff6ea1c1e014 2354 main/binary-arm64/Packages
- 94e23b098e002fa274ebeb4f3d1951a6190c886354b6e51dae2f6cd29d1237a1 1012 main/binary-arm64/Packages.gz
+ e395a97635922885ea6483c2f750bb269962ebf7ffbf1434e83b901ce3d77a1b 1810 main/binary-arm64/Packages
+ 1f7804c318fc22c492f76f7fd92d7221f9ba5db5882e3f46a9878bd11df4e4f4 851 main/binary-arm64/Packages.gz
  ba3c001bab96a1e5d531117d09dfb7ffa6e56a672e733bc36d66fd62d0151abb 77 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iI8EARYKADcWIQSN5oST+HpIfGrmFwNDGePJ/TaxmQUCarHZmBkcZXJpY0Blcmlj
-am9oYW5uZXNzb24uY29tAAoJEEMZ48n9NrGZGcYBAO0v9Xteroe+Ga4Hd6O38R5I
-Clkn3A00S3Ntg5ThcJMcAP9SNJ7MwUY+DUZrYrtjPx2DCYvW1Z2zSEdPQtLPcxAx
-DA==
-=L2/s
+iI8EARYKADcWIQSN5oST+HpIfGrmFwNDGePJ/TaxmQUCarQHbhkcZXJpY0Blcmlj
+am9oYW5uZXNzb24uY29tAAoJEEMZ48n9NrGZZQYA/1+eBDSaK5yhFWzGJZLNthvH
+YjMbTCs9eKvub3UeW6r+AQD0Y0TBHhOVlE92hPIjTq2nXZSgcjHdZy16s7cxD4zw
+BA==
+=bQ2y
 -----END PGP SIGNATURE-----

@@ -13,21 +13,6 @@ SHA1: 57df28ae808fbec22ce11c71ec576857aada6f99
 MD5sum: 8d82cd1412f2ac341e35277e8e21b00b
 Description: A bash-script for making the file structure of a destination directory identical to the file structure of a source directory (without changing the source), where each destination file is the result of applying a user-specified shell-command to the corresponding source file.
 
-Package: natural-deduction
-Version: 0
-Maintainer: Eric Johannesson <eric@ericjohannesson.com>
-Depends: libc6
-Architecture: arm64
-Homepage: https://github.com/ericjohannesson/natural-deduction
-Priority: 0
-Section: misc
-Filename: pool/main/n/natural-deduction/natural-deduction_0_arm64.deb
-Size: 1287502
-SHA256: 69b82263e20845aef57ae5c33709bbcb1474eae95e39bb2dfa4a0d50e1a20c15
-SHA1: 1827195223319686fa8d8f8c42785d885a14ae9e
-MD5sum: 66b71b1aef998f3feacc32c907d78aa6
-Description: A basic proof assistant for natural deduction in first-order logic
-
 Package: nmm-ocaml
 Version: 3
 Maintainer: Eric Johannesson <eric@ericjohannesson.com>
@@ -37,10 +22,10 @@ Homepage: https://github.com/ericjohannesson/nmm-ocaml
 Priority: 0
 Section: misc
 Filename: pool/main/n/nmm-ocaml/nmm-ocaml_3_arm64.deb
-Size: 1964326
-SHA256: 338db2c783701c5d050f1097acd702c75ab09d554c1478ef977e5e58af55e0bb
-SHA1: a450c2f5a6eed8f9d57f632e54c5083fe2cf80b0
-MD5sum: 704142d7e370350839efc4e8ff14bd72
+Size: 1964356
+SHA256: bb273f7e4160c9c576d81e67c292be30e75e42cdcf320a5b81e62239bbec9deb
+SHA1: 52f70527d28b5037aa39d4e61460b72dab8f1ca9
+MD5sum: 57d53d6d9ec835b3b65e5da77ac866f3
 Description: An implementation of no-markup-markup in OCaml
 
 Package: nmm-ocaml-extras
