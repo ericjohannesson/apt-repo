@@ -8,9 +8,9 @@ Priority: 0
 Section: misc
 Filename: pool/main/c/cmdsync/cmdsync_5_all.deb
 Size: 4046
-SHA256: c5208d7cd0f3fd557663becaa4a92a447c352dd269eb37f2f0bf9e079b91ec0c
-SHA1: 57df28ae808fbec22ce11c71ec576857aada6f99
-MD5sum: 8d82cd1412f2ac341e35277e8e21b00b
+SHA256: 4f19756d5343f4ba50d474abeeddc07bd4f207b3a387a88f3868488862a2fc3d
+SHA1: a2fbfedad95149864c7a9ca4f5aba8a5e34bf4ad
+MD5sum: de0b9d92a99f3ceda41877fd85483937
 Description: A bash-script for making the file structure of a destination directory identical to the file structure of a source directory (without changing the source), where each destination file is the result of applying a user-specified shell-command to the corresponding source file.
 
 Package: natural-deduction
