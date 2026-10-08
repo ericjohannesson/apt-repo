@@ -38,8 +38,8 @@ Priority: 0
 Section: misc
 Filename: pool/main/n/nmm-ocaml-extras/nmm-ocaml-extras_0_all.deb
 Size: 2312
-SHA256: 219d3dd3953592885bbf7a2afe76422a8443b63804f31c4b5c76c6fa5a69dbfd
-SHA1: 829721d80bd2074de5e9d6dd10f2028e33c93d82
-MD5sum: 7e82f44b67604199b2287739a6472999
+SHA256: 8b1fc2871cc83309320ecbe4a2d55296e3ba9c2006f45ef847e778f17031d938
+SHA1: ade73b29a47371c44d3e9fd512e35585e6dd91c0
+MD5sum: 995fc5af77c59d767c700b02e25f68fb
 Description: Some convenient wrapper scripts for nmm-ocaml (txt-of-nmm, html-of-nmm, pdf-of-nmm)
 
