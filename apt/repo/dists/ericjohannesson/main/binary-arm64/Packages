@@ -28,18 +28,3 @@ SHA1: 9d180d99543086b97bbb1a911588ede61b712d32
 MD5sum: d2952526f05a51c2519032fda70e231b
 Description: An implementation of no-markup-markup in OCaml
 
-Package: nmm-ocaml-extras
-Version: 0
-Maintainer: Eric Johannesson <eric@ericjohannesson.com>
-Depends: nmm-ocaml, bash, sed, weasyprint
-Architecture: all
-Homepage: https://github.com/ericjohannesson/nmm-ocaml
-Priority: 0
-Section: misc
-Filename: pool/main/n/nmm-ocaml-extras/nmm-ocaml-extras_0_all.deb
-Size: 2312
-SHA256: 8b1fc2871cc83309320ecbe4a2d55296e3ba9c2006f45ef847e778f17031d938
-SHA1: ade73b29a47371c44d3e9fd512e35585e6dd91c0
-MD5sum: 995fc5af77c59d767c700b02e25f68fb
-Description: Some convenient wrapper scripts for nmm-ocaml (txt-of-nmm, html-of-nmm, pdf-of-nmm)
-
