@@ -14,17 +14,17 @@ MD5sum: de0b9d92a99f3ceda41877fd85483937
 Description: A bash-script for making the file structure of a destination directory identical to the file structure of a source directory (without changing the source), where each destination file is the result of applying a user-specified shell-command to the corresponding source file.
 
 Package: nmm-ocaml
-Version: 4
+Version: 8
 Maintainer: Eric Johannesson <eric@ericjohannesson.com>
 Depends: libc6
 Architecture: arm64
 Homepage: https://github.com/ericjohannesson/nmm-ocaml
 Priority: 0
 Section: misc
-Filename: pool/main/n/nmm-ocaml/nmm-ocaml_4_arm64.deb
-Size: 1963136
-SHA256: c9e4db2390adb44e398df15c460da57c375fc5ed343387c44d64d399a19f6a17
-SHA1: 9d180d99543086b97bbb1a911588ede61b712d32
-MD5sum: d2952526f05a51c2519032fda70e231b
+Filename: pool/main/n/nmm-ocaml/nmm-ocaml_8_arm64.deb
+Size: 1967694
+SHA256: 14417308a1da6ecd76c3cd69f6f40f2355e0eb85ee00e555d3dad564644b91c0
+SHA1: c2ffcdc55b5b49569c43340b3e0dca34f3d33959
+MD5sum: 472d2733ad150d9edc46cdb6c6ef5767
 Description: An implementation of no-markup-markup in OCaml
 
