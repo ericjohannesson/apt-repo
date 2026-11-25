@@ -1,26 +1,26 @@
 Origin: Eric Johannesson
 Suite: stable
 Codename: ericjohannesson
-Date: Thu, 19 Nov 2026 14:32:23 UTC
+Date: Wed, 25 Nov 2026 10:33:04 UTC
 Architectures: amd64 arm64
 Components: main
 MD5Sum:
- 5aecb20af8803d948aa357a5da5b1d63 1784 main/binary-amd64/Packages
- f935af0e983dd7a85fbe4271d9411846 827 main/binary-amd64/Packages.gz
+ 4f8a8142d67e6fcca5e96829c2838582 1786 main/binary-amd64/Packages
+ a825dae7f1fea4c1bab92cb40a4ada62 824 main/binary-amd64/Packages.gz
  54a52e1bf432fa6a5bfd708c08fe9a66 77 main/binary-amd64/Release
  b4bde0336851866a31df5d8bdb32f016 1240 main/binary-arm64/Packages
  3a1915682e4748f2fe4db7328a4c3787 663 main/binary-arm64/Packages.gz
  a8391efef854813c257d7639bfa274d5 77 main/binary-arm64/Release
 SHA1:
- d7e187495614936506e2dd770c5f32820b0c999a 1784 main/binary-amd64/Packages
- 771df574d9834dcf396a9abfba3213006d218763 827 main/binary-amd64/Packages.gz
+ a5db19fc4d3673d3ae848c67583bee4c8e68e7ec 1786 main/binary-amd64/Packages
+ cd3a9bd2366c48c525ef8c24bc6c87c8b2a0ea6b 824 main/binary-amd64/Packages.gz
  e53834aa428c1a70fb21abdac4787fb5753a588d 77 main/binary-amd64/Release
  b800614756a66ab3649dc4dc3c437a1c997567cd 1240 main/binary-arm64/Packages
  128344d3e8cdc45201c83c95270c16797c7ee3c6 663 main/binary-arm64/Packages.gz
  0da4c119b3d5e57d6c2d3e351d68e63490a55dc8 77 main/binary-arm64/Release
 SHA256:
- a0cd723cee578d897604c9dc4e94c9803dce42402361049d057418ceee81a13f 1784 main/binary-amd64/Packages
- f3782157a17a060e2ad6c03f66a7de07e022ff9e37abf7a2e39c72c8c388930a 827 main/binary-amd64/Packages.gz
+ 85fa2930c4ecd70b831d88ab5e1873323d47cbe11bbbb69cf0ea4bfd882d1aae 1786 main/binary-amd64/Packages
+ ae505056c0afd7e2ea178127e0b5c798e528998b0d763c96ada7814e21ce0073 824 main/binary-amd64/Packages.gz
  9e75a16417b2ec85a6db141b0643f1310fe6a211cb18ced2dd3c423299a23e8e 77 main/binary-amd64/Release
  a9f2e450666d1f0d4b8d89675e4aa98de2b77e6e88daf1a7ccbd184446dda2c6 1240 main/binary-arm64/Packages
  8127a068b4a5cd57d07f09fb068b56b602a8cd525bce76f8df9fe03fb33d13aa 663 main/binary-arm64/Packages.gz
